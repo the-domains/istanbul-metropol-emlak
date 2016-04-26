@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[istanbul-metropol-emlak]]></title>
-        <description><![CDATA[istanbul-metropol-emlak]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Kiralık ve satılık: daire, ofis, müstakil ev, villa, residence, arsa]]></title>
+        <description><![CDATA[Kiralık ve satılık: daire, ofis, müstakil ev, villa, residence, arsa]]></description>
+        <link>https://thegrid.ai/istanbul-metropol-emlak/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 12:38:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 12:51:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/istanbul-metropol-emlak/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Esenyurt'ta komple kiralık sıfır bina</p>]]></description>
-            <link>undefinedesenyurtta-komple-kiralik-sifir-bina/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65040d2f-67a7-4db2-9e58-ef547970168f.jpg">]]></description>
+            <link>https://thegrid.ai/istanbul-metropol-emlak/esenyurtta-komple-kiralik-sifir-bina/index.html</link>
             <guid isPermaLink="false">d151e8a1-b53f-4f59-86af-422039bde04e</guid>
-            <pubDate>Tue, 26 Apr 2016 12:38:48 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2016 12:51:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
