@@ -1,0 +1,1 @@
+# istanbul-metropol-emlak
