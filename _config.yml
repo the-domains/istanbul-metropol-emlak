@@ -2,6 +2,7 @@ name: istanbul-metropol-emlak
 favicon: null
 layout_spectrum: 0.4601882074493915
 typography_spectrum: 0.22183095128275454
+title: 'Kiralık ve satılık: daire, ofis, müstakil ev, villa, residence, arsa'
 cta:
   domain: null
   bucket: null
